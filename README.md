@@ -9,6 +9,6 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 | Hello | 你好啊 | 你好 |
 | ----- | ------ | ---- |
 | 1     | 4      | 7    |
-|       |        |      |
-|       |        | 9    |
+| 2     | 6      | 9    |
+| 4     |        | 9    |
 
